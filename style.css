@@ -4,24 +4,29 @@ background-color: #2C3E50;
 }
 .fluid-container {
     background-color: #1ABC9C;
+    height: 300px;
+   
    
 }
 .container {
-    background-color: #63bc1a;
+    background-color: #ffffff;
   
 }
 .col {
    
-    border: 2px dashed ;
+    border: 2px dashed black ;
    
 }
 .square {
     height: 200px;
     width: 200px;
-    border: 2px dashed white;
+    border: 2px dashed whitrede;
 }
 .lgsquare {
     height: 200px;
-    border: 2px dashed white;
+    border: 2px dashed;
+}
+section {
+    margin-bottom: 10px;
 }
 
