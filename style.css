@@ -1,16 +1,17 @@
 header {
 height: 100px;
 background-color: #2C3E50;
+
 }
+footer {
+    border-color: #3A546D;
+
+    }
 .fluid-container {
-    background-color: #1ABC9C;
-    height: 300px;
-   
-   
+    background-color: aquamarine;
 }
-.container {
-    background-color: #ffffff;
-  
+.row {
+    margin-right: 0px;
 }
 .col {
    
@@ -20,13 +21,11 @@ background-color: #2C3E50;
 .square {
     height: 200px;
     width: 200px;
-    border: 2px dashed whitrede;
+    border: 2px dashed white
 }
 .lgsquare {
     height: 200px;
     border: 2px dashed;
 }
-section {
-    margin-bottom: 10px;
-}
+
 
