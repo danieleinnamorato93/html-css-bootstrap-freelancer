@@ -4,9 +4,24 @@ background-color: #2C3E50;
 }
 .fluid-container {
     background-color: #1ABC9C;
-    height: 300px;
+   
+}
+.container {
+    background-color: #63bc1a;
+  
 }
 .col {
-    width: 200px;
-    height: 200px;
+   
+    border: 2px dashed ;
+   
 }
+.square {
+    height: 200px;
+    width: 200px;
+    border: 2px dashed white;
+}
+.lgsquare {
+    height: 200px;
+    border: 2px dashed white;
+}
+
