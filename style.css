@@ -7,10 +7,21 @@ background-color: #1ABC9C;
     color: white;
 }
 footer {
-    border-color: #3A546D;
-
+    
+    background-color: #3A546D;
     }
-    img {
+.footer-top {
+        background-color: #3A546D;
+        color: white;
+        min-height: 200px;
+    }
+    .footer-bottom {
+        background-color: #2C3E50;
+        color:white;
+       
+    }
+
+img {
         width: 100%;
     }
 #start-bootstrap {
@@ -39,6 +50,10 @@ footer {
     
 }
 #about {
+    background-color: #1ABC9C;
+}
+
+#contactme button {
     background-color: #1ABC9C;
 }
 
