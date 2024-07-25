@@ -1,7 +1,9 @@
 header {
 height: 100px;
-background-color: #2C3E50;
-
+}
+.bg-dark-header {
+    background-color: #3A546D;
+    color: white;
 }
 footer {
     border-color: #3A546D;
@@ -10,9 +12,7 @@ footer {
 .fluid-container {
     background-color: aquamarine;
 }
-.row {
-    margin-right: 0px;
-}
+
 .col {
    
     border: 2px dashed black ;
