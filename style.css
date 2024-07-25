@@ -1,5 +1,6 @@
 header {
 height: 100px;
+background-color: #1ABC9C;
 }
 .bg-dark-header {
     background-color: #3A546D;
@@ -9,8 +10,8 @@ footer {
     border-color: #3A546D;
 
     }
-.fluid-container {
-    background-color: aquamarine;
+#start-bootstrap {
+    background-color: #1ABC9C;
 }
 
 .col {
@@ -18,10 +19,15 @@ footer {
     border: 2px dashed black ;
    
 }
+.bar {
+    width: 50px;
+    height: 2px;
+    background-color: white;
+}
 .square {
     height: 200px;
     width: 200px;
-    border: 2px dashed white
+    
 }
 .lgsquare {
     height: 200px;
